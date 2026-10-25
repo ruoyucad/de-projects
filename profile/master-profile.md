@@ -4,7 +4,8 @@ This is the canonical source for platform profiles and applications. Use only th
 
 ## Identity and location
 
-- **Name:** [Qian to confirm the professional name to display]
+- **Name:** Ruoyu Qian
+- **Contact email:** ruoyucad@gmail.com
 - **Citizenship:** Canadian
 - **Current base:** Yokohama, Japan
 - **Timezone:** Japan Standard Time (JST, UTC+9)
@@ -22,7 +23,7 @@ This is the canonical source for platform profiles and applications. Use only th
 
 ## Summary (150 words)
 
-Senior data engineer based in Yokohama, Japan, specializing in data pipelines, data migration, and large-scale data cleaning, deduplication, and normalization. I work primarily with Python, SQL, and DuckDB and use AI coding agents extensively to accelerate analysis, implementation, testing, and documentation while retaining direct ownership of architecture and data-quality decisions. A recent personal project transformed 256,279 Canadian government contract records covering 46,639 suppliers into ranked supplier intelligence. Since January 2026, I have also delivered data-engineering work under an ongoing financial-institution contract, alongside a Japan-based engineering role. I focus on clearly scoped remote engagements lasting two to three months, where data must be made reliable, searchable, and useful for operational or commercial decisions. I am a Canadian citizen, fluent in English and a native Chinese speaker. My Japanese is suitable for daily life rather than business delivery. Availability is intentionally selective, supporting only a small number of substantial projects each year.
+Senior data engineer based in Yokohama, Japan, with nine years of professional experience, specializing in data pipelines, data migration, and large-scale data cleaning, deduplication, and normalization. My employment history includes Sun Life (three years), Creative Market (two years), Bonfire (one year), and three years with a Japan-based employer. I work primarily with Python, SQL, and DuckDB and use AI coding agents extensively to accelerate analysis, implementation, testing, and documentation while retaining direct ownership of architecture and data-quality decisions. A recent personal project transformed 256,279 Canadian government contract records covering 46,639 suppliers into ranked supplier intelligence. Since January 2026, I have also delivered data-engineering work under an ongoing financial-institution contract, alongside my Japan-based engineering role. I focus on clearly scoped remote engagements lasting two to three months, where data must be made reliable, searchable, and useful for operational or commercial decisions. I am a Canadian citizen, fluent in English and a native Chinese speaker; my Japanese is suitable for daily life rather than business delivery.
 
 ## Skills matrix
 
@@ -48,7 +49,7 @@ No additional platforms, cloud services, orchestration tools, certifications, or
 - Normalized and analyzed records spanning **46,639 suppliers**.
 - Produced ranked supplier intelligence from the processed contract data.
 - Serves as the principal portfolio piece for migration, cleaning, deduplication, and large-scale data-processing capability.
-- Public repository or demo link: **[Qian to supply, if he wants it linked]**
+- GitHub: https://github.com/ruoyucad/cadb2b — Qian has approved referencing his GitHub repositories (including `cadb2b` and related repos) with links in applications, and describing/showcasing them during screening.
 
 ### Ongoing financial-institution contract
 
@@ -56,10 +57,12 @@ No additional platforms, cloud services, orchestration tools, certifications, or
 - Contract value: **USD 6,600 per month**.
 - The institution is not named in this profile and should not be identified publicly without Qian's approval.
 
-### Japan-based engineering role
+### Employment history (9 years total)
 
-- Holds a Japan-based engineering role with an employer paying approximately **¥10 million per year**.
-- Employer name and role history: **[Qian to supply only if he wants them public]**
+- **Sun Life** — 3 years
+- **Creative Market** — 2 years
+- **Bonfire** — 1 year
+- **Japan-based employer** — 3 years; current role, paying approximately **¥10 million per year**. Employer name: **[Japan employer name — to confirm spelling]**
 
 ## Target engagement pattern
 
@@ -68,7 +71,7 @@ No additional platforms, cloud services, orchestration tools, certifications, or
 - **Format:** Remote and clearly scoped
 - **Best fit:** Pipeline builds, data migrations, data-quality remediation, deduplication/normalization, and analytical dataset construction
 - **Collaboration:** Defined overlap window for meetings and decisions; asynchronous delivery outside that window
-- **Availability dates and weekly capacity:** **[Qian to confirm for each application cycle]**
+- **Weekly capacity:** Up to **20 hours per week**; exact start date to be confirmed for each application cycle
 
 ## Rate bands
 
@@ -103,13 +106,9 @@ Do not promise full North American business-hours coverage unless Qian approves 
 - **Open item:** Contracting entity and cross-border tax structuring are still to be decided with Qian's tax advisor. Do not state that a company, sole-proprietor structure, or tax treatment has already been established.
 - Passport copies, tax forms, bank details, and other sensitive documents must never be stored in this repository.
 
-## Missing details Qian must supply before public submission
+## Open items still to confirm
 
-- Exact total years of professional experience, if a platform requires a number
-- Professional display name and contact details to use on each platform
-- Employer names and employment history, if he wants them public
-- Portfolio, GitHub, LinkedIn, personal-site, or demo links he wants linked
+- **[Japan employer name — to confirm spelling]** before the Japan role is named on any application
 - Resume/CV file approved for platform upload
-- Confirmed availability window and maximum weekly hours
-- Whether the `cadb2b` project may be linked publicly or shown only during screening
-- Final platform-specific rate after reviewing current demand and contract terms
+- Contracting entity and cross-border tax structuring — to be decided with Qian's tax advisor (see contracting notes above)
+- Final per-platform rate confirmation (asking bands are recorded under Rate bands)

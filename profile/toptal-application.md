@@ -15,7 +15,7 @@ Senior Data Engineer | Pipelines, Migration, and Large-Scale Data Cleaning
 
 ### Short positioning statement
 
-Canadian senior data engineer based in Yokohama, Japan, focused on remote, clearly scoped data-engineering projects. Core strengths are data pipelines, data migration, and large-scale cleaning, deduplication, and normalization using Python, SQL, and DuckDB. A personal portfolio project processed 256,279 Canadian government contract records covering 46,639 suppliers into ranked supplier intelligence. Since January 2026, also engaged in ongoing data-engineering work for a financial institution under a USD 6,600/month contract, alongside a Japan-based engineering role.
+Canadian senior data engineer based in Yokohama, Japan, with nine years of professional experience (Sun Life, three years; Creative Market, two years; Bonfire, one year; and three years with a Japan-based employer), focused on remote, clearly scoped data-engineering projects. Core strengths are data pipelines, data migration, and large-scale cleaning, deduplication, and normalization using Python, SQL, and DuckDB. A personal portfolio project processed 256,279 Canadian government contract records covering 46,639 suppliers into ranked supplier intelligence. Since January 2026, also engaged in ongoing data-engineering work for a financial institution under a USD 6,600/month contract, alongside the Japan-based engineering role.
 
 ### Target engagement
 
@@ -23,6 +23,7 @@ Canadian senior data engineer based in Yokohama, Japan, focused on remote, clear
 - **Volume:** A few substantial projects per year
 - **Regions:** North America remote; Hong Kong and Singapore remote
 - **Timezone:** JST (UTC+9), with strong APAC overlap and defined partial overlap for North America
+- **Weekly capacity:** Up to 20 hours per week
 - **Target Toptal rate:** USD 110–130/hr, subject to Qian's final confirmation and Toptal's process
 
 ## Screening stages checklist
@@ -30,12 +31,12 @@ Canadian senior data engineer based in Yokohama, Japan, focused on remote, clear
 Use this as a preparation checklist. Confirm the current order and labels inside Toptal when applying.
 
 - [ ] **Initial application**
-  - [ ] Professional display name and contact details confirmed
+  - [x] Professional display name and contact details confirmed: Ruoyu Qian / ruoyucad@gmail.com
   - [ ] Senior Data Engineer selected as the primary role
   - [ ] Location entered as Yokohama, Japan
   - [ ] Canadian citizenship and remote-work model stated accurately
-  - [ ] Rate expectation prepared: USD 110–130/hr target band
-  - [ ] Availability pattern stated as project-based, typically two to three months
+  - [ ] Rate expectation prepared: USD 110–130/hr target band (final rate confirmation still open)
+  - [ ] Availability pattern stated as project-based, typically two to three months, up to 20 hours per week
 
 - [ ] **English and communication interview**
   - [ ] Prepare a two-minute spoken introduction
@@ -106,8 +107,8 @@ Built a Python, SQL, and DuckDB pipeline that processed 256,279 Canadian governm
 
 ### Portfolio link
 
-- GitHub / demo / write-up: **[Qian to supply and approve]**
-- Visibility preference: **[Public link / screening-only / description only — Qian to choose]**
+- GitHub: https://github.com/ruoyucad/cadb2b
+- Visibility: Qian has approved linking his GitHub repositories in applications and describing/showcasing them during screening.
 
 ## English and communication notes
 
@@ -133,10 +134,10 @@ Built a Python, SQL, and DuckDB pipeline that processed 256,279 Canadian governm
 
 ## Pre-submission inputs still required from Qian
 
-- Exact years of experience, if requested numerically
-- Employer names and dates, only if he wants them on the application
+- Japan employer name spelling, before the Japan role is named: [Japan employer name — to confirm spelling]
 - Approved CV/resume
-- Approved `cadb2b` link and visibility level
-- Final Toptal rate within or outside the USD 110–130/hr target band
-- Confirmed start window and weekly capacity
+- Final Toptal rate confirmation within or outside the USD 110–130/hr target band
+- Confirmed start window (weekly capacity is confirmed: up to 20 hours per week)
 - Confirmation of contracting route and tax-structuring status with his advisor
+
+Already confirmed: 9 years of experience with employer history (Sun Life 3 years, Creative Market 2 years, Bonfire 1 year, Japan-based employer 3 years); display name Ruoyu Qian and email ruoyucad@gmail.com; `cadb2b` GitHub link approved for applications and screening.
