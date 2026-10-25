@@ -15,7 +15,7 @@ Senior Data Engineer | Pipelines, Migration, and Large-Scale Data Cleaning
 
 ### Short positioning statement
 
-Canadian senior data engineer based in Yokohama, Japan, with nine years of professional experience (Sun Life, three years; Creative Market, two years; Bonfire, one year; and three years with Japan-based employer Pennery Car Japan — name as spoken, spelling to confirm), focused on remote, clearly scoped data-engineering projects. Core strengths are data pipelines, data migration, and large-scale cleaning, deduplication, and normalization using Python, SQL, and DuckDB. A personal portfolio project processed 256,279 Canadian government contract records covering 46,639 suppliers into ranked supplier intelligence. Since January 2026, also engaged in ongoing data-engineering work for a financial institution under a USD 6,600/month contract, alongside the Japan-based engineering role.
+Canadian senior data engineer based in Yokohama, Japan, with nine years of professional experience (Sun Life, three years; Creative Market, two years; Bonfire, one year; and three years with Pernod Ricard Japan), focused on remote, clearly scoped data-engineering projects. Core strengths are data pipelines, data migration, and large-scale cleaning, deduplication, and normalization using Python, SQL, and DuckDB. A personal portfolio project processed 256,279 Canadian government contract records covering 46,639 suppliers into ranked supplier intelligence. Since January 2026, also engaged in ongoing data-engineering work for a financial institution under a USD 6,600/month contract, alongside the Japan-based engineering role.
 
 ### Target engagement
 
@@ -134,9 +134,8 @@ Built a Python, SQL, and DuckDB pipeline that processed 256,279 Canadian governm
 
 ## Pre-submission inputs still required from Qian
 
-- Japan employer name spelling, before the Japan role is named (currently written as spoken: "Pennery Car Japan" [employer name spelling to confirm])
 - Approved CV/resume
 - Final Toptal rate confirmation within or outside the USD 110–130/hr target band
 - Confirmation of contracting route and tax-structuring status with his advisor
 
-Already confirmed: 9 years of experience with employer history (Sun Life 3 years, Creative Market 2 years, Bonfire 1 year, Japan-based employer Pennery Car Japan 3 years — employers approved to be named); display name Ruoyu Qian and email ruoyucad@gmail.com; availability — available now on an ongoing basis, up to 20 hours per week; portfolio — anything useful from his GitHub repos may be used, with `cadb2b` as the flagship piece (private repo: project description + screening code walkthrough, not a public link).
+Already confirmed: 9 years of experience with employer history (Sun Life 3 years, Creative Market 2 years, Bonfire 1 year, Pernod Ricard Japan 3 years — name confirmed, employers approved to be named); display name Ruoyu Qian and email ruoyucad@gmail.com; availability — available now on an ongoing basis, up to 20 hours per week; portfolio — anything useful from his GitHub repos may be used, with `cadb2b` as the flagship piece (private repo: project description + screening code walkthrough, not a public link).

@@ -23,7 +23,7 @@ This is the canonical source for platform profiles and applications. Use only th
 
 ## Summary (150 words)
 
-Senior data engineer based in Yokohama, Japan, with nine years of professional experience, specializing in data pipelines, data migration, and large-scale data cleaning, deduplication, and normalization. My employment history includes Sun Life (three years), Creative Market (two years), Bonfire (one year), and three years with a Japan-based employer (Pennery Car Japan — name as spoken; spelling to confirm). I work primarily with Python, SQL, and DuckDB and use AI coding agents extensively to accelerate analysis, implementation, testing, and documentation while retaining direct ownership of architecture and data-quality decisions. A recent personal project transformed 256,279 Canadian government contract records covering 46,639 suppliers into ranked supplier intelligence. Since January 2026, I have also delivered data-engineering work under an ongoing financial-institution contract, alongside my Japan-based engineering role. I focus on clearly scoped remote engagements lasting two to three months, where data must be made reliable, searchable, and useful for operational or commercial decisions. I am a Canadian citizen, fluent in English and a native Chinese speaker; my Japanese is suitable for daily life rather than business delivery.
+Senior data engineer based in Yokohama, Japan, with nine years of professional experience, specializing in data pipelines, data migration, and large-scale data cleaning, deduplication, and normalization. My employment history includes Sun Life (three years), Creative Market (two years), Bonfire (one year), and three years with Pernod Ricard Japan. I work primarily with Python, SQL, and DuckDB and use AI coding agents extensively to accelerate analysis, implementation, testing, and documentation while retaining direct ownership of architecture and data-quality decisions. A recent personal project transformed 256,279 Canadian government contract records covering 46,639 suppliers into ranked supplier intelligence. Since January 2026, I have also delivered data-engineering work under an ongoing financial-institution contract, alongside my Japan-based engineering role. I focus on clearly scoped remote engagements lasting two to three months, where data must be made reliable, searchable, and useful for operational or commercial decisions. I am a Canadian citizen, fluent in English and a native Chinese speaker; my Japanese is suitable for daily life rather than business delivery.
 
 ## Skills matrix
 
@@ -62,7 +62,7 @@ No additional platforms, cloud services, orchestration tools, certifications, or
 - **Sun Life** — 3 years
 - **Creative Market** — 2 years
 - **Bonfire** — 1 year
-- **Pennery Car Japan** [employer name spelling to confirm] — 3 years; current Japan-based role, paying approximately **¥10 million per year**. (Name written as spoken by Qian on 2026-10-25; spelling is unconfirmed. Employers are approved to be named on applications.)
+- **Pernod Ricard Japan** — 3 years; current role, paying approximately **¥10 million per year**. (Employers are approved to be named on applications.)
 
 ## Target engagement pattern
 
@@ -108,7 +108,6 @@ Do not promise full North American business-hours coverage unless Qian approves 
 
 ## Open items still to confirm
 
-- **Employer name spelling:** the Japan employer is written as spoken — "Pennery Car Japan" [employer name spelling to confirm] — confirm the exact spelling before the Japan role is named on any application
 - Resume/CV file approved for platform upload
 - Contracting entity and cross-border tax structuring — to be decided with Qian's tax advisor (see contracting notes above)
 - Final per-platform rate confirmation (asking bands are recorded under Rate bands)
