@@ -15,7 +15,7 @@ Senior Data Engineer | Pipelines, Migration, and Large-Scale Data Cleaning
 
 ### Short positioning statement
 
-Canadian senior data engineer based in Yokohama, Japan, with nine years of professional experience (Sun Life, three years; Creative Market, two years; Bonfire, one year; and three years with a Japan-based employer), focused on remote, clearly scoped data-engineering projects. Core strengths are data pipelines, data migration, and large-scale cleaning, deduplication, and normalization using Python, SQL, and DuckDB. A personal portfolio project processed 256,279 Canadian government contract records covering 46,639 suppliers into ranked supplier intelligence. Since January 2026, also engaged in ongoing data-engineering work for a financial institution under a USD 6,600/month contract, alongside the Japan-based engineering role.
+Canadian senior data engineer based in Yokohama, Japan, with nine years of professional experience (Sun Life, three years; Creative Market, two years; Bonfire, one year; and three years with Japan-based employer Pennery Car Japan — name as spoken, spelling to confirm), focused on remote, clearly scoped data-engineering projects. Core strengths are data pipelines, data migration, and large-scale cleaning, deduplication, and normalization using Python, SQL, and DuckDB. A personal portfolio project processed 256,279 Canadian government contract records covering 46,639 suppliers into ranked supplier intelligence. Since January 2026, also engaged in ongoing data-engineering work for a financial institution under a USD 6,600/month contract, alongside the Japan-based engineering role.
 
 ### Target engagement
 
@@ -23,7 +23,7 @@ Canadian senior data engineer based in Yokohama, Japan, with nine years of profe
 - **Volume:** A few substantial projects per year
 - **Regions:** North America remote; Hong Kong and Singapore remote
 - **Timezone:** JST (UTC+9), with strong APAC overlap and defined partial overlap for North America
-- **Weekly capacity:** Up to 20 hours per week
+- **Weekly capacity:** Up to 20 hours per week; available now, on an ongoing basis
 - **Target Toptal rate:** USD 110–130/hr, subject to Qian's final confirmation and Toptal's process
 
 ## Screening stages checklist
@@ -36,7 +36,7 @@ Use this as a preparation checklist. Confirm the current order and labels inside
   - [ ] Location entered as Yokohama, Japan
   - [ ] Canadian citizenship and remote-work model stated accurately
   - [ ] Rate expectation prepared: USD 110–130/hr target band (final rate confirmation still open)
-  - [ ] Availability pattern stated as project-based, typically two to three months, up to 20 hours per week
+  - [ ] Availability pattern stated as project-based, typically two to three months, up to 20 hours per week, available now on an ongoing basis
 
 - [ ] **English and communication interview**
   - [ ] Prepare a two-minute spoken introduction
@@ -64,7 +64,7 @@ Use this as a preparation checklist. Confirm the current order and labels inside
 
 - [ ] **Professional presentation / final review**
   - [ ] Portfolio project description below is approved by Qian
-  - [ ] Public links are supplied only if Qian wants them visible
+  - [ ] `cadb2b` presented as a project description with a code walkthrough offered during screening (the repo is private — no public link)
   - [ ] Availability, timezone overlap, and contracting constraints are stated without ambiguity
 
 ## Portfolio project to submit: `cadb2b`
@@ -105,10 +105,10 @@ Built a Python, SQL, and DuckDB pipeline that processed 256,279 Canadian governm
 - Do not add cloud services, orchestration tools, databases, or frameworks that are not documented in the project materials Qian approves for screening.
 - Do not identify the separate financial-institution client or use its work as a public case study.
 
-### Portfolio link
+### Portfolio presentation
 
-- GitHub: https://github.com/ruoyucad/cadb2b
-- Visibility: Qian has approved linking his GitHub repositories in applications and describing/showcasing them during screening.
+- Repository: `ruoyucad/cadb2b` — **private repository**, so there is no public link to supply.
+- Qian has approved using anything useful from his GitHub repositories as portfolio material. On Toptal, present `cadb2b` as the project description above and offer a code walkthrough during screening instead of a public link.
 
 ## English and communication notes
 
@@ -134,10 +134,9 @@ Built a Python, SQL, and DuckDB pipeline that processed 256,279 Canadian governm
 
 ## Pre-submission inputs still required from Qian
 
-- Japan employer name spelling, before the Japan role is named: [Japan employer name — to confirm spelling]
+- Japan employer name spelling, before the Japan role is named (currently written as spoken: "Pennery Car Japan" [employer name spelling to confirm])
 - Approved CV/resume
 - Final Toptal rate confirmation within or outside the USD 110–130/hr target band
-- Confirmed start window (weekly capacity is confirmed: up to 20 hours per week)
 - Confirmation of contracting route and tax-structuring status with his advisor
 
-Already confirmed: 9 years of experience with employer history (Sun Life 3 years, Creative Market 2 years, Bonfire 1 year, Japan-based employer 3 years); display name Ruoyu Qian and email ruoyucad@gmail.com; `cadb2b` GitHub link approved for applications and screening.
+Already confirmed: 9 years of experience with employer history (Sun Life 3 years, Creative Market 2 years, Bonfire 1 year, Japan-based employer Pennery Car Japan 3 years — employers approved to be named); display name Ruoyu Qian and email ruoyucad@gmail.com; availability — available now on an ongoing basis, up to 20 hours per week; portfolio — anything useful from his GitHub repos may be used, with `cadb2b` as the flagship piece (private repo: project description + screening code walkthrough, not a public link).

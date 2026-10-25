@@ -19,7 +19,7 @@ Senior Data Engineer | Pipelines, Migration, and Large-Scale Data Cleaning
 - **Citizenship:** Canadian
 - **Work model:** Remote
 - **Preferred engagements:** Clearly scoped projects lasting approximately two to three months
-- **Availability pattern:** A few substantial projects per year; up to 20 hours per week; exact start date to be confirmed at application time
+- **Availability pattern:** Available now, on an ongoing basis; a few substantial projects per year; up to 20 hours per week
 - **Regional fit:** Hong Kong and Singapore offer strong business-hours overlap with JST. North America is workable with a defined partial-overlap window and asynchronous delivery.
 
 ### Expertise tags
@@ -43,7 +43,7 @@ Do not add cloud platforms, orchestration products, streaming tools, certificati
 
 ### Bio
 
-I am a Canadian senior data engineer based in Yokohama, Japan, with nine years of professional experience (Sun Life, three years; Creative Market, two years; Bonfire, one year; and three years with a Japan-based employer). I specialize in building data pipelines, delivering data migrations, and cleaning, deduplicating, and normalizing large operational datasets. My core tools are Python, SQL, and DuckDB, and I use AI coding agents extensively to accelerate implementation, testing, analysis, and documentation while retaining direct responsibility for architecture and data-quality decisions.
+I am a Canadian senior data engineer based in Yokohama, Japan, with nine years of professional experience (Sun Life, three years; Creative Market, two years; Bonfire, one year; and three years with Japan-based employer Pennery Car Japan — name as spoken, spelling to confirm). I specialize in building data pipelines, delivering data migrations, and cleaning, deduplicating, and normalizing large operational datasets. My core tools are Python, SQL, and DuckDB, and I use AI coding agents extensively to accelerate implementation, testing, analysis, and documentation while retaining direct responsibility for architecture and data-quality decisions.
 
 A recent personal project processed 256,279 Canadian government contract records covering 46,639 suppliers and turned them into ranked supplier intelligence. Since January 2026, I have also been delivering data-engineering work under an ongoing contract with a financial institution, alongside a Japan-based engineering role.
 
@@ -142,9 +142,9 @@ These are preparation prompts, not scripted claims. Answers should stay within t
 - [x] Professional display name and contact email confirmed: Ruoyu Qian / ruoyucad@gmail.com
 - [x] Years of experience confirmed: 9 years (Sun Life 3, Creative Market 2, Bonfire 1, Japan-based employer 3)
 - [x] Weekly capacity confirmed: up to 20 hours per week
-- [x] Portfolio approved: GitHub repositories may be linked and showcased in screening, including https://github.com/ruoyucad/cadb2b
+- [x] Portfolio approved: anything useful from Qian's GitHub repositories may be used as portfolio material; `cadb2b` is the flagship piece but is a **private** repo — present it as a project description and offer a code walkthrough during screening rather than a public link
 - [ ] Qian gives final confirmation of USD 95/hr as the single-number rate
-- [ ] Japan employer name spelling confirmed before the Japan role is named: [Japan employer name — to confirm spelling]
+- [ ] Japan employer name spelling confirmed before the Japan role is named (currently written as spoken: "Pennery Car Japan" [employer name spelling to confirm])
 - [ ] Qian verifies every expertise tag against actual experience
 - [ ] No financial-institution name has been added without approval
 - [ ] Japanese is described only as daily-life conversational ability

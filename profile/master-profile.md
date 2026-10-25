@@ -23,7 +23,7 @@ This is the canonical source for platform profiles and applications. Use only th
 
 ## Summary (150 words)
 
-Senior data engineer based in Yokohama, Japan, with nine years of professional experience, specializing in data pipelines, data migration, and large-scale data cleaning, deduplication, and normalization. My employment history includes Sun Life (three years), Creative Market (two years), Bonfire (one year), and three years with a Japan-based employer. I work primarily with Python, SQL, and DuckDB and use AI coding agents extensively to accelerate analysis, implementation, testing, and documentation while retaining direct ownership of architecture and data-quality decisions. A recent personal project transformed 256,279 Canadian government contract records covering 46,639 suppliers into ranked supplier intelligence. Since January 2026, I have also delivered data-engineering work under an ongoing financial-institution contract, alongside my Japan-based engineering role. I focus on clearly scoped remote engagements lasting two to three months, where data must be made reliable, searchable, and useful for operational or commercial decisions. I am a Canadian citizen, fluent in English and a native Chinese speaker; my Japanese is suitable for daily life rather than business delivery.
+Senior data engineer based in Yokohama, Japan, with nine years of professional experience, specializing in data pipelines, data migration, and large-scale data cleaning, deduplication, and normalization. My employment history includes Sun Life (three years), Creative Market (two years), Bonfire (one year), and three years with a Japan-based employer (Pennery Car Japan — name as spoken; spelling to confirm). I work primarily with Python, SQL, and DuckDB and use AI coding agents extensively to accelerate analysis, implementation, testing, and documentation while retaining direct ownership of architecture and data-quality decisions. A recent personal project transformed 256,279 Canadian government contract records covering 46,639 suppliers into ranked supplier intelligence. Since January 2026, I have also delivered data-engineering work under an ongoing financial-institution contract, alongside my Japan-based engineering role. I focus on clearly scoped remote engagements lasting two to three months, where data must be made reliable, searchable, and useful for operational or commercial decisions. I am a Canadian citizen, fluent in English and a native Chinese speaker; my Japanese is suitable for daily life rather than business delivery.
 
 ## Skills matrix
 
@@ -49,7 +49,7 @@ No additional platforms, cloud services, orchestration tools, certifications, or
 - Normalized and analyzed records spanning **46,639 suppliers**.
 - Produced ranked supplier intelligence from the processed contract data.
 - Serves as the principal portfolio piece for migration, cleaning, deduplication, and large-scale data-processing capability.
-- GitHub: https://github.com/ruoyucad/cadb2b — Qian has approved referencing his GitHub repositories (including `cadb2b` and related repos) with links in applications, and describing/showcasing them during screening.
+- Repository: `ruoyucad/cadb2b` (**private repository**). Qian has approved using anything useful from his GitHub repositories as portfolio material, with `cadb2b` as the flagship piece. Because the repo is private, on platforms present it as a project description and offer a code walkthrough during screening rather than supplying a public link.
 
 ### Ongoing financial-institution contract
 
@@ -62,7 +62,7 @@ No additional platforms, cloud services, orchestration tools, certifications, or
 - **Sun Life** — 3 years
 - **Creative Market** — 2 years
 - **Bonfire** — 1 year
-- **Japan-based employer** — 3 years; current role, paying approximately **¥10 million per year**. Employer name: **[Japan employer name — to confirm spelling]**
+- **Pennery Car Japan** [employer name spelling to confirm] — 3 years; current Japan-based role, paying approximately **¥10 million per year**. (Name written as spoken by Qian on 2026-10-25; spelling is unconfirmed. Employers are approved to be named on applications.)
 
 ## Target engagement pattern
 
@@ -71,7 +71,7 @@ No additional platforms, cloud services, orchestration tools, certifications, or
 - **Format:** Remote and clearly scoped
 - **Best fit:** Pipeline builds, data migrations, data-quality remediation, deduplication/normalization, and analytical dataset construction
 - **Collaboration:** Defined overlap window for meetings and decisions; asynchronous delivery outside that window
-- **Weekly capacity:** Up to **20 hours per week**; exact start date to be confirmed for each application cycle
+- **Availability:** Available now, on an ongoing basis; up to **20 hours per week** for contract projects
 
 ## Rate bands
 
@@ -108,7 +108,7 @@ Do not promise full North American business-hours coverage unless Qian approves 
 
 ## Open items still to confirm
 
-- **[Japan employer name — to confirm spelling]** before the Japan role is named on any application
+- **Employer name spelling:** the Japan employer is written as spoken — "Pennery Car Japan" [employer name spelling to confirm] — confirm the exact spelling before the Japan role is named on any application
 - Resume/CV file approved for platform upload
 - Contracting entity and cross-border tax structuring — to be decided with Qian's tax advisor (see contracting notes above)
 - Final per-platform rate confirmation (asking bands are recorded under Rate bands)
